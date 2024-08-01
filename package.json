@@ -1,0 +1,21 @@
+{
+  "name": "hall-booking",
+  "version": "1.0.0",
+  "description": "create an api with hall booking functionality",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "express": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RakeshV0498/hall-booking.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ]
+
+
+}
