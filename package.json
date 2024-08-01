@@ -2,11 +2,11 @@
   "name": "hall-booking",
   "version": "1.0.0",
   "description": "create an api with hall booking functionality",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "express": "node --watch index.js"
+    "express": "node --watch server.js"
   },
   "repository": {
     "type": "git",
